@@ -3,6 +3,8 @@ name: where-to-eat
 description: |
   附近餐厅推荐助手。结合目的地、就餐目的、口味要求、环境要求、人均预算、就餐时间等多维度，通过大众点评筛选 Top 10 候选店铺，并结合小红书真实用户评价进行深度口碑与避坑调研，最终精选推荐 3 家最符合要求的餐厅。
 
+  开源仓库: https://github.com/iSimpleWork/where-to-eat
+
   触发词：
   - 推荐餐厅
   - 附近有什么好吃的
@@ -13,6 +15,9 @@ description: |
 ---
 
 # 去哪儿吃， 附近餐厅推荐助手 (Where to eat)
+
+> [!NOTE]
+> 开源仓库地址: [iSimpleWork/where-to-eat](https://github.com/iSimpleWork/where-to-eat)
 
 此技能能够辅助用户筛选目的地附近的餐厅。它遵循两阶段的调研与决策流程：先通过大众点评数据构建 Top 10 的候选库，再利用小红书的真实评测进行深度口碑检验与避坑分析，最后为用户精选并推荐 3 家最合适的餐厅。
 
